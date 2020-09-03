@@ -3,19 +3,19 @@
     xmlns:gap   = "http://phonegap.com/ns/1.0"
     id          = "com.neufdi.cookieclick"
     versionCode = "10"
-    version     = "1.0.0" >
+    version     = "1.0.2" >
 
 <!-- versionCode is optional and Android only -->
 
   <name>CookieClick</name>
 
   <description>
-      Nothing
+      An 1.0.2 Update
   </description>
 
   <author href="https://build.phonegap.com" email="neufdiminecraft@gmail.com">
       Neufdi
   </author>
 
-  <icon src=icon.png />
+  <icon src="icon.png" />
 </widget>
